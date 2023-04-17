@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**ESRAcanpolatt/ESRAcanpolatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+Hello, I'm Esra.<br>
+ I am developing a mobile application with Flutter.
+ 
+ # Personel Info
+ - Name :  @ESRAcanpolatt
+ - Gmail : esracanpolat1997@gmail.com
+ 
+ # Current Occupation
+ <p> Learning Flutter and Developing Mobile Apps </p>
+ 
+ # Languages and Frameworks
+ - Dart
+ - Flutter
+ - Android Studio
+ - HTML
+ - CSS
+ - Figma 
+ - Python 
+ - C
+ - Java
+ 
+ # Find me on social media
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esra-canpolat-0788b125a/)
