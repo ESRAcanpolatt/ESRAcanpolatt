@@ -4,7 +4,7 @@ Hello, I'm Esra.<br>
  
  # Personel Info
  - Name :  @ESRAcanpolatt
- - Gmail : esracanpolat1997@gmail.com
+ - Gmail :  esracanpolat1997@gmail.com
  
  # Current Occupation
  <p> Learning Flutter and Developing Mobile Apps </p>
